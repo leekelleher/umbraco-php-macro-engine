@@ -1,5 +1,7 @@
 # PHP MacroEngine for Umbraco
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 This package allows you to write Umbraco macros in the PHP language.
 
 Do you have designers or web devs that only know PHP? Now they can particiapte on Umbraco projects too!
